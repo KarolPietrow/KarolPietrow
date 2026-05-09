@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Karol
+# Hi! I'm Karol
 
 I am a 3rd-year Computer Science student passionate about building useful, user-centric software. I specialize in mobile technologies and full-stack development, and I'm currently exploring the integration of AI models on embedded devices.
 
