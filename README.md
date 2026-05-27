@@ -11,6 +11,7 @@ I am a 3rd-year Computer Science student passionate about building useful, user-
 - **Languages:** JavaScript, TypeScript, Swift, Kotlin, Python, Java, C++
 - **Mobile & Frontend:** React Native, Expo, SwiftUI, Jetpack Compose
 - **Backend & Cloud:** REST APIs, Firebase, Azure
+- **Databases:** SQLite, PostgreSQL
 
 <div align="left">
   <!-- Używamy skillicons.dev do wygenerowania ładnych ikonek -->
