@@ -8,9 +8,9 @@ I am a 3rd-year Computer Science student passionate about building useful, user-
 - 💼 Currently looking for my first job/internship as a Junior Mobile or Full-Stack Developer.
 
 ### My Tech Stack
-- **Languages:** Kotlin, Swift, Python, JavaScript, TypeScript, C++, Java
-- **Mobile & Frontend:** React Native, SwiftUI, Jetpack Compose
-- **Backend & Cloud:** Python, REST APIs, Firebase, Azure
+- **Languages:** JavaScript, TypeScript, Swift, Kotlin, Python, Java, C++
+- **Mobile & Frontend:** React Native, Expo, SwiftUI, Jetpack Compose
+- **Backend & Cloud:** REST APIs, Firebase, Azure
 
 <div align="left">
   <!-- Używamy skillicons.dev do wygenerowania ładnych ikonek -->
